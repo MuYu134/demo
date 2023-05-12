@@ -1,0 +1,42 @@
+.home {
+    height: 100vh;
+}
+
+.ant-layout {
+    height: 100vh;
+}
+
+.logo {
+    height: 64px;
+    padding: 20px 0;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+
+.logo h1 {
+    margin: 0;
+    padding: 0;
+    border-right: 3px solid rgba(255, 255, 255, .1);
+    position: relative;
+}
+
+.logo h1 img {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 0;
+    left: 10px;
+}
+
+
+.changeIcon {
+    text-align: center;
+    background-color: rgba(255, 255, 255, .1);
+}
+
+.right {
+    float: right;
+    color: #fff;
+    margin-right: 10px;
+}
